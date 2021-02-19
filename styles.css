@@ -1,0 +1,15 @@
+body{
+    background-color: dimgray;
+}
+
+p{
+    background-color: black;
+    color: darkturquoise;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-flex;
+    font-size:  40px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
