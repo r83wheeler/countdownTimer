@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Create a webpage that displays a countdown timer in digital clock format. 
 
 2. Create HTML
@@ -14,3 +15,6 @@
     5. Output the values to the id's in HTML
     6. Create a message to display when the timer ends 
 
+=======
+# countdownTimer
+>>>>>>> 4a98f6263a5f7fe46112c18a0c384aed6698e246
