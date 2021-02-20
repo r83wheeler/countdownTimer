@@ -15,6 +15,7 @@ var myfunc = setInterval(function () {
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
     // Result is output to the specific element
+    //Using .innerHTML property to replace <divs> with variables
     document.getElementById("days").innerHTML = days + "d "
     document.getElementById("hours").innerHTML = hours + "h "
     document.getElementById("mins").innerHTML = minutes + "m "
